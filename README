@@ -1,0 +1,8 @@
+Creation d'un depot GIT
+Ce fichier est le tout premier qui sera enregistré.
+
+git ...
+    Status
+    Add
+    (Status)
+    Commit
